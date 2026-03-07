@@ -8,7 +8,7 @@ Ocean County, NJ • [jermsmit@gmail.com](mailto:jermsmit@gmail.com) • [linked
 
 ## About
 
-Proven IT leader with 20+ years of experience in enterprise infrastructure, IT operations, and team leadership — including 10+ years managing global teams in regulated Life Sciences SaaS environments. Demonstrated success building high-performing teams, driving digital transformation, and delivering technology solutions aligned to business strategy.
+Proven IT leader with 20+ years of experience in enterprise infrastructure, IT operations, and team leadership, including 10+ years managing global teams in regulated Life Sciences SaaS environments. Demonstrated success building high-performing teams, driving digital transformation, and delivering technology solutions aligned to business strategy.
 
 ---
 
