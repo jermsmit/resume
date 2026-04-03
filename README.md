@@ -1,39 +1,39 @@
 # Jermal M. Smith
 
-**Senior Technology Leader | IT Management & Operations**
+**IT & Security Leader | Enterprise Infrastructure · Cloud · Cybersecurity · Digital Transformation**
 
-New Jersey • [linkedin.com/in/jermsmit](https://linkedin.com/in/jermsmit) • [jermsmit.com](https://jermsmit.com)
+New Jersey · [linkedin.com/in/jermsmit](https://linkedin.com/in/jermsmit) · [jermsmit.com](https://jermsmit.com)
 
 ---
 
 ## About
 
-Proven IT leader with 20+ years of experience in enterprise infrastructure, IT operations, and team leadership, including 10+ years managing global teams in regulated Life Sciences SaaS environments. Demonstrated success building high-performing teams, driving digital transformation, and delivering technology solutions aligned to business strategy.
+IT and Security leader with 20+ years leading enterprise technology functions in regulated, global SaaS environments. Proven track record owning $4M+ annual IT budgets, building and scaling high-performing teams, and delivering clean SOC 2, ISO 27001, and ISO 9001 audit outcomes across multiple consecutive cycles with zero major findings. Trusted strategic partner to C-suite and CTO leadership to align technology investment with business outcomes through structured IT roadmaps, Zero Trust security architecture, and enterprise-wide digital transformation. Experienced across M&A integration, global workforce enablement, and regulated Life Sciences compliance (HIPAA, GDPR, CFR 11).
 
 ---
 
 ## Core Competencies
 
-`IT Strategy & Roadmap Planning` `Global Team Leadership` `Enterprise Infrastructure & Operations`
-`Cloud Platforms (Azure, AWS, M365)` `Business Continuity & Disaster Recovery` `Security & Compliance (SOC 2, ISO 27001)`
-`Digital Transformation` `Vendor & Contract Management` `Budget & Resource Management`
-`Project & Program Management` `Stakeholder Communication` `Policy & SOP Development`
+`IT Operations Leadership` `Enterprise Architecture` `Cloud Platforms (Azure, AWS, M365)` `Cybersecurity & Zero Trust`
+`SOC 2 · ISO 27001 · ISO 9001 · HIPAA · GDPR · CFR 11` `NIST / CIS Frameworks` `Identity & Access Management`
+`Budget Ownership & Cost Optimization` `Vendor & Contract Strategy` `Digital Transformation` `M&A Integration`
+`Team Development & Talent Management` `Business Continuity & DR` `Automation & IaC` `Agile / Scrum`
 
 ---
 
 ## Experience Highlights
 
 **Senior Manager, Information Technology** — Sparta Systems, a Honeywell Company *(2020 – Present)*
-Led global IT operations across infrastructure, cybersecurity, cloud platforms, and business-critical systems in a regulated Life Sciences environment. Guided team through Honeywell acquisition while maintaining service continuity and team engagement.
+Led global IT operations, infrastructure, cybersecurity, and compliance for a regulated Life Sciences SaaS business. Owned $4M+ annual IT budget and a 15-person extended team. Served as strategic technology partner to the CTO across enterprise architecture, organizational transformation, and executive decision-making.
 
 **IT Manager** — Sparta Systems *(2018 – 2020)*
-First management role overseeing Corporate IT operations, team development, and strategic project delivery including enterprise Office 365 deployment and cloud platform adoption.
+Managed a 7-person cross-functional IT team across infrastructure, operations, and enterprise systems. Owned full scope of IT service delivery, vendor strategy, and technology planning for a growing Life Sciences SaaS business.
 
 **Expert Systems Administrator** — Sparta Systems *(2015 – 2018)*
-Senior technical contributor for enterprise infrastructure design and operations including VMware, cloud platforms, and network security in a regulated environment.
+Designed and maintained enterprise virtualization, storage, and networking infrastructure. Built scripting and automation frameworks supporting datacenter consolidation and DR architecture.
 
-**Senior Systems Administrator / Team Lead** — Infragistics *(2012 – 2015)*
-Led infrastructure team, managed Microsoft enterprise licensing, and delivered Office 365 and cloud migrations.
+**Senior Systems Administrator / Team Lead** — Infragistics *(2007 – 2015)*
+Managed Windows Server and Linux environments supporting global SaaS infrastructure. Led identity management, network design, and automation initiatives across multiple data centers.
 
 ---
 
@@ -41,38 +41,39 @@ Led infrastructure team, managed Microsoft enterprise licensing, and delivered O
 
 | Area | Technologies |
 |---|---|
-| Cloud & Productivity | Microsoft 365, Azure, AWS, SharePoint Online, Teams, Exchange Online |
-| Virtualisation | VMware vSphere/ESXi, Hyper-V, Proxmox VE, LXC, Xen |
+| Cloud & Identity | Azure, AWS, Microsoft 365, Entra ID (Azure AD), SSO/SAML, MFA, Conditional Access |
+| Infrastructure & Virtualization | VMware vSphere, Hyper-V, Proxmox VE, multi-site datacenter operations |
+| Security & Networking | Checkpoint, Cisco, Juniper, Aruba, VPN, SD-WAN, Endpoint Protection, PAM, Zero Trust |
+| Identity & Access Management | Active Directory, Entra ID, RBAC, Group Policy, SSO/SAML federation, PAM |
+| Automation & IaC | PowerShell, Ansible, Terraform, Kubernetes, scripting pipelines |
+| Storage & BC/DR | Nimble Storage, Dell EqualLogic, TrueNAS, SAN/NAS architecture, Veeam |
 | Operating Systems | Windows Server 2008–2022, Windows 10/11, RHEL, Debian, Ubuntu |
-| Security & Networking | Checkpoint, Cisco, Juniper, Aruba, VPN, SD-WAN, SSO/SAML, MFA, 802.1X |
-| Identity & Access | Active Directory, Azure AD/Entra ID, Group Policy, RBAC |
-| Automation & Scripting | PowerShell, Python, Bash, VBScript, WMI, AutoIT |
-| Backup & DR | Veeam, BCP development, disaster recovery architecture |
-| Frameworks | ITIL, Agile/Scrum, SOC 2, ISO 9001, ISO 27001, Change Management |
+| Frameworks & Compliance | ITIL, Agile/Scrum, SOC 2 Type II, ISO 27001, ISO 9001, HIPAA, GDPR, CFR 11, NIST, CIS, CAPA |
+
+---
+
+## Certifications
+
+- VMware Certified Professional, Data Center Virtualization (VCP6-DCV) / VMware vExpert
+- Microsoft MCSE / MCSA
+- CompTIA Security+, Linux+, Server+, Network+
 
 ---
 
 ## Education
 
-**B.A., Sociology** — Monmouth University, West Long Branch, NJ *(1995 – 1999)*
-**Computer Systems Networking and Telecommunications** — New Horizons *(1999 – 2000)*
-
-Continuous learner — Azure infrastructure and cloud certifications, ITIL foundations, leadership development, and ongoing hands-on lab work.
+**B.A., Sociology** — Monmouth University
+**Computer Systems & Networking** — New Horizons
 
 ---
 
-## Featured Projects
+## Writer
 
-- **[slideshow-kiosk](https://github.com/jermsmit/slideshow-kiosk)** — Auto-starting photo slideshow for Ubuntu Server. Minimal X11 kiosk, no desktop required, supports QEMU/KVM, VMware, and bare metal.
-
----
-
-## Blog & Community
-
-Technology blogger, evangelist, and influencer at **[jermsmit.com](https://jermsmit.com)** since 2007 — covering enterprise infrastructure, cloud, virtualisation, security, and disaster recovery.
+Continuous learning in cloud architecture, cybersecurity, and enterprise leadership. Technology blogger at [jermsmit.com](https://jermsmit.com) since 2007.
 
 ---
 
 ## Resume Download
 
-📄 [Download Resume (DOCX)](./Jermal_Smith_Resume_ATS.docx)
+- [Download Resume (PDF)](https://github.com/jermsmit/resume/raw/master/Jermal_Smith_Resume.pdf)
+- [Download Resume (DOCX)](https://github.com/jermsmit/resume/raw/master/Jermal_Smith_Resume.docx)
