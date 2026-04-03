@@ -2,7 +2,7 @@
 
 **Senior Technology Leader | IT Management & Operations**
 
-Ocean County, NJ • [jermsmit@gmail.com](mailto:jermsmit@gmail.com) • [linkedin.com/in/jermsmit](https://linkedin.com/in/jermsmit) • [jermsmit.com](https://jermsmit.com)
+New Jersey • [linkedin.com/in/jermsmit](https://linkedin.com/in/jermsmit) • [jermsmit.com](https://jermsmit.com)
 
 ---
 
